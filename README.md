@@ -1,7 +1,7 @@
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-design.jpg)
-![Live Site Link](./design/desktop-design.jpg)
+![Live Site Link](https://zihad-hossion.github.io/news-homepage/)
 
 ## Welcome! 👋
 
